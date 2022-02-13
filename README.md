@@ -1,2 +1,2 @@
 # python
-My first python project
+Journey towords Python.
