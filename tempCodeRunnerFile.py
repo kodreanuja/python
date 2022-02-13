@@ -1,1 +1,1 @@
-return array.sort() 
+l.push(7)
