@@ -1,0 +1,2 @@
+def letterCount(String):
+    
